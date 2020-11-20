@@ -23,6 +23,7 @@
 		<module>child-entities</module>
 		<module>spring-di</module>
 		<module>java-cdi</module>
+		<module>enums</module>
 	</modules>
 
 	<dependencies>
