@@ -25,6 +25,8 @@
 		<module>java-cdi</module>
 		<module>enums</module>
 		<module>datatypes</module>
+		<module>custom-methods</module>
+		<module>custom-mappers</module>
 	</modules>
 
 	<dependencies>

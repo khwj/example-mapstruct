@@ -11,3 +11,5 @@ Examples for this guide: [Guide to MapStruct in Java - Advanced Mapping Library]
   * [Java CDI (using Quarkus ArC)](https://github.com/khwj/example-mapstruct/tree/master/java-cdi)
 * [Mapping Enums](https://github.com/khwj/example-mapstruct/tree/master/enums)
 * [Mapping DataTypes](https://github.com/khwj/example-mapstruct/tree/master/datatypes)
+* [Adding Custom Methods](https://github.com/khwj/example-mapstruct/tree/master/custom-methods)
+* [Creating Custom Mappers (and @BeforeMapping/@AfterMapping)](https://github.com/khwj/example-mapstruct/tree/master/custom-mappers)
