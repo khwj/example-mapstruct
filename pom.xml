@@ -24,6 +24,7 @@
 		<module>spring-di</module>
 		<module>java-cdi</module>
 		<module>enums</module>
+		<module>datatypes</module>
 	</modules>
 
 	<dependencies>

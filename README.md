@@ -10,3 +10,4 @@ Examples for this guide: [Guide to MapStruct in Java - Advanced Mapping Library]
   * [Spring DI](https://github.com/khwj/example-mapstruct/tree/master/spring-di)
   * [Java CDI (using Quarkus ArC)](https://github.com/khwj/example-mapstruct/tree/master/java-cdi)
 * [Mapping Enums](https://github.com/khwj/example-mapstruct/tree/master/enums)
+* [Mapping DataTypes](https://github.com/khwj/example-mapstruct/tree/master/datatypes)
