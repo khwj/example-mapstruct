@@ -27,6 +27,8 @@
 		<module>datatypes</module>
 		<module>custom-methods</module>
 		<module>custom-mappers</module>
+		<module>default-values</module>
+		<module>expressions</module>
 	</modules>
 
 	<dependencies>

@@ -13,3 +13,5 @@ Examples for this guide: [Guide to MapStruct in Java - Advanced Mapping Library]
 * [Mapping DataTypes](https://github.com/khwj/example-mapstruct/tree/master/datatypes)
 * [Adding Custom Methods](https://github.com/khwj/example-mapstruct/tree/master/custom-methods)
 * [Creating Custom Mappers (and @BeforeMapping/@AfterMapping)](https://github.com/khwj/example-mapstruct/tree/master/custom-mappers)
+* [Adding Default Values](https://github.com/khwj/example-mapstruct/tree/master/default-values)
+* [Adding Java Expressions](https://github.com/khwj/example-mapstruct/tree/master/expressions)
