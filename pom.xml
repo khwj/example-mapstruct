@@ -29,6 +29,8 @@
 		<module>custom-mappers</module>
 		<module>default-values</module>
 		<module>expressions</module>
+		<module>exception-handling</module>
+		<module>configurations</module>
 	</modules>
 
 	<dependencies>
